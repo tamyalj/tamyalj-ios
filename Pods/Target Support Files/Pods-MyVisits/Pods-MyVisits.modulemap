@@ -1,0 +1,6 @@
+framework module Pods_MyVisits {
+  umbrella header "Pods-MyVisits-umbrella.h"
+
+  export *
+  module * { export * }
+}
